@@ -1,0 +1,62 @@
+{
+  "id": "unr-890e40ae-3949-4aec-b64a-61ded713ec4d",
+  "dct_title_s": "NDOT Color Atlas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "ndot_color_atlas"
+  ],
+  "dct_description_sm": [
+    "MrSID raster dataset named ndot_color_atlas, packaged as a ZIP archive with an accompanying auxiliary XML sidecar. Automated processing identified one raster source file, but did not detect coordinate reference system, bounding box, or centroid information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Cloud-optimized derivative was not generated because GDAL did not find raster georeferencing for the MrSID source."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
+  "dct_subject_sm": [],
+  "dcat_theme_sm": [
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "NDOT",
+    "color atlas",
+    "mosaic",
+    "MrSID",
+    "raster data"
+  ],
+  "dct_temporal_sm": [],
+  "dct_spatial_sm": [],
+  "dct_identifier_sm": [
+    "unr-890e40ae-3949-4aec-b64a-61ded713ec4d",
+    "eb40c3178d33e0a346bb4acf7d037fc370fe00bf8dc44de6ef45f89829a313b9",
+    "ndot_color_atlas.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/original_file/ndot_color_atlas.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "MrSID",
+  "gbl_georeferenced_b": false,
+  "gbl_mdModified_dt": "2026-06-02T14:56:17.572Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "2225044736",
+  "dct_references_s": "{\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/original_file/ndot_color_atlas.zip\",\"label\":\"Original geospatial raster package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"http://schema.org/thumbnailUrl\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/thumbnail/thumbnail.jpg\",\"label\":\"Thumbnail\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/original_file/ndot_color_atlas.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-890e40ae-3949-4aec-b64a-61ded713ec4d/dataset_manifest.json\",\"label\":\"Dataset manifest\"}]}"
+}

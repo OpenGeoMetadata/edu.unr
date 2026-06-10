@@ -1,0 +1,78 @@
+{
+  "id": "unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5",
+  "dct_title_s": "Ely, Nev., September 1923, sheet 6",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "Ely, Nevada, September 1923, sheet 6"
+  ],
+  "dct_description_sm": [
+    "Sheet 6 of a Sanborn fire insurance map of Ely, Nevada, dated September 1923. The map shows buildings, lots, streets, a public school, ball grounds, swimming tank, and other urban features."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dct_subject_sm": [
+    "Fire insurance maps",
+    "Buildings",
+    "Streets"
+  ],
+  "dcat_theme_sm": [
+    "Structure",
+    "Transportation",
+    "Property"
+  ],
+  "dcat_keyword_sm": [
+    "Sanborn maps",
+    "Ely",
+    "Nevada",
+    "sheet 6"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "dct_spatial_sm": [
+    "Ely (Nev.)",
+    "Nevada"
+  ],
+  "dct_identifier_sm": [
+    "unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5",
+    "46afda84cfefe029d58fd48ee2c67989671c756a86bfb5376833247103abb32e"
+  ],
+  "dct_rights_sm": [
+    "Copyright 1923 by the Sanborn Map Co."
+  ],
+  "dct_rightsHolder_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/original_file/ely1923-41_6.tif"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "TIFF",
+  "dct_issued_s": "1923",
+  "gbl_indexYear_im": "1923",
+  "gbl_georeferenced_b": false,
+  "gbl_mdModified_dt": "2026-05-17T15:45:21.406Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "151282456",
+  "dct_references_s": "{\"iiif\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/iiif\",\"label\":\"IIIF Image API Level 0\"}],\"http://schema.org/thumbnailUrl\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/thumbnail/thumbnail.jpg\",\"label\":\"Thumbnail\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/original_file/ely1923-41_6.tif\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"ai-enrichments\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/ai-enrichments.json\",\"label\":\"OpenGeoMetadata AI Enrichments JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/enrichment-response\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-3e8b9e63-6f61-46cc-ac29-c78e358de8f5/enrichment_response.json\",\"label\":\"Extracted placename response\"}]}",
+  "gbl_dateRange_drsim": "[1923 TO 1923]"
+}

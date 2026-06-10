@@ -1,0 +1,75 @@
+{
+  "id": "unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b",
+  "dct_title_s": "Ortho 1-1 1n NV510, 2010: Polygon data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "ortho_1-1_1n_nv510_2010_1"
+  ],
+  "dct_description_sm": [
+    "ESRI Shapefile polygon dataset containing 55 features. Attribute fields include image date (IDATE), start and end date/time fields (SDATE, EDATE), camera type, camera manufacturer, camera model, sensor number, and shape area. The coordinate reference system is NAD 1983 UTM Zone 11N, meters."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "The uploaded shapefile package manifest lists .shp, .dbf, and .prj components; no .shx index file is listed, and derivative generation reported failure because the SHX file was unavailable."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_subject_sm": [
+    "Orthophotography"
+  ],
+  "dcat_theme_sm": [
+    "Imagery",
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "orthophotography",
+    "orthoimagery",
+    "image acquisition date",
+    "digital camera",
+    "Intergraph DMC",
+    "NAD 1983 UTM Zone 11N",
+    "ESRI Shapefile",
+    "polygon features"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [],
+  "dct_identifier_sm": [
+    "unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b",
+    "09c8f467a6b119743e69d7268938b4f9977a2120df8be271f7ed22c6349cde35",
+    "ortho_1-1_1n_nv510_2010_1.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/original_file/ortho_1-1_1n_nv510_2010_1.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "Shapefile",
+  "gbl_indexYear_im": "2010",
+  "dcat_bbox": "ENVELOPE(233466.90309429375,285564.65,4357766.932,4323488.243)",
+  "locn_geometry": "POLYGON((233466.90309429375 4357766.932, 285564.65 4357766.932, 285564.65 4323488.243, 233466.90309429375 4323488.243, 233466.90309429375 4357766.932))",
+  "dcat_centroid": "{\"type\":\"Point\",\"coordinates\":[259515.7765471469,4340627.5875]}",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-06-02T14:52:31.642Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "98614",
+  "dct_references_s": "{\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/original_file/ortho_1-1_1n_nv510_2010_1.zip\",\"label\":\"Original zipped shapefile package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/original_file/ortho_1-1_1n_nv510_2010_1.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-43de18b1-3056-4e0d-ae62-7c6dc7b4695b/dataset_manifest.json\",\"label\":\"Dataset manifest\"}]}",
+  "gbl_dateRange_drsim": "[2010-01-01T00:00:00Z TO 2010-12-31T23:59:59Z]"
+}

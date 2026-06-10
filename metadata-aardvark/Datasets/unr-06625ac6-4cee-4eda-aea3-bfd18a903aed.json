@@ -1,0 +1,74 @@
+{
+  "id": "unr-06625ac6-4cee-4eda-aea3-bfd18a903aed",
+  "dct_title_s": "Boulder City, 1952",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "Bouldercity1952",
+    "bouldercity1952"
+  ],
+  "dct_description_sm": [
+    "Georeferenced GeoTIFF raster dataset for Boulder City, 1952. The raster has 1 band and dimensions of 4,301 x 3,849 pixels. The source package includes the TIFF dataset with associated TFW, AUX, and RRD sidecar files. Coordinate reference system detected by GDAL: NAD83 / UTM zone 11N (EPSG:26911)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Source ZIP contains bouldercity1952.tif with .tfw, .aux, and .rrd sidecar files."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
+  "dct_subject_sm": [],
+  "dcat_theme_sm": [
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "Boulder City",
+    "Nevada",
+    "georeferenced raster",
+    "GeoTIFF",
+    "NAD83",
+    "UTM zone 11N",
+    "EPSG:26911"
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "dct_spatial_sm": [
+    "Boulder City (Nev.)"
+  ],
+  "dct_identifier_sm": [
+    "unr-06625ac6-4cee-4eda-aea3-bfd18a903aed",
+    "54ec62ee1c2a40096a5c503e8d896182c45bd706daa07fd7f1366d28f694e1b1",
+    "bouldercity1952.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/original_file/bouldercity1952.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "GeoTIFF",
+  "gbl_indexYear_im": "1952",
+  "dcat_bbox": "ENVELOPE(-114.8608963,-114.8212211,35.9874251,35.9584243)",
+  "locn_geometry": "POLYGON((-114.8608963 35.9874251, -114.8212211 35.9874251, -114.8212211 35.9584243, -114.8608963 35.9584243, -114.8608963 35.9874251))",
+  "dcat_centroid": "35.9729247,-114.8410587",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-05-17T15:11:10.701Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "318308",
+  "dct_references_s": "{\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/original_file/bouldercity1952.zip\",\"label\":\"Original geospatial raster package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/derivatives/bouldercity1952.cog.tif\",\"label\":\"Cloud Optimized GeoTIFF derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/original_file/bouldercity1952.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/dataset_manifest.json\",\"label\":\"Dataset manifest\"}],\"https://www.cogeo.org/\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-06625ac6-4cee-4eda-aea3-bfd18a903aed/derivatives/bouldercity1952.cog.tif\",\"label\":\"Cloud Optimized GeoTIFF\"}]}",
+  "gbl_dateRange_drsim": "1952-01-01T00:00:00Z/1952-12-31T23:59:59Z"
+}

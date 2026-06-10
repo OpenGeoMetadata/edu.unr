@@ -1,0 +1,67 @@
+{
+  "id": "unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7",
+  "dct_title_s": "NDOT Georeferenced TIFF Index Polygons",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "ndot_index"
+  ],
+  "dct_description_sm": [
+    "ESRI Shapefile dataset containing 129 polygon features. The single attribute field, location, stores georeferenced TIFF filenames such as quad_0101_utm11_georeference.tif, indicating the polygons form an index to georeferenced TIFF files. Coordinate reference system information is supplied in the package as NAD 1983 UTM Zone 11N."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Source package includes .shp, .shx, .dbf, and .prj files."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_subject_sm": [],
+  "dcat_theme_sm": [
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "NDOT",
+    "index polygons",
+    "georeferenced TIFF",
+    "tile index",
+    "ESRI Shapefile",
+    "Polygon",
+    "NAD 1983 UTM Zone 11N"
+  ],
+  "dct_temporal_sm": [],
+  "dct_spatial_sm": [],
+  "dct_identifier_sm": [
+    "unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7",
+    "cbaa4b27836e68da0a439036c3477d4914ee4c28dd713b199c3cf09ffa8acd0d",
+    "ndot_index.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/original_file/ndot_index.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "Shapefile",
+  "dcat_bbox": "ENVELOPE(238379.23443976537,770421.3750486401,4654130.999994,3874070.9999999385)",
+  "locn_geometry": "POLYGON((238379.23443976537 4654130.999994, 770421.3750486401 4654130.999994, 770421.3750486401 3874070.9999999385, 238379.23443976537 3874070.9999999385, 238379.23443976537 4654130.999994))",
+  "dcat_centroid": "{\"type\":\"Point\",\"coordinates\":[504400.3047442027,4264100.9999969695]}",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-06-02T14:50:14.094Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "6267",
+  "dct_references_s": "{\"geojson\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/derivatives/ndot_index.geojson\",\"label\":\"GeoJSON viewer derivative\"}],\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/original_file/ndot_index.zip\",\"label\":\"Original zipped shapefile package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/derivatives/ndot_index.parquet\",\"label\":\"GeoParquet derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/derivatives/ndot_index.pmtiles\",\"label\":\"PMTiles vector tile derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/derivatives/ndot_index.geojson\",\"label\":\"GeoJSON viewer derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/original_file/ndot_index.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/dataset_manifest.json\",\"label\":\"Dataset manifest\"}],\"pmtiles\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-e7bd5441-b68d-4f98-8e12-9f6fc20550f7/derivatives/ndot_index.pmtiles\",\"label\":\"PMTiles vector tiles\"}]}"
+}

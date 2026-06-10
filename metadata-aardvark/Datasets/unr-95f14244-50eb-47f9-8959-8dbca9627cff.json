@@ -1,0 +1,69 @@
+{
+  "id": "unr-95f14244-50eb-47f9-8959-8dbca9627cff",
+  "dct_title_s": "Ortho 1-1 1n S Nv510, 2010",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "ortho_1-1_1n_s_nv510_2010_1"
+  ],
+  "dct_description_sm": [
+    "MrSID raster dataset containing orthoimagery. The package includes a .sid raster file with associated auxiliary, metadata, and world-file sidecars. No bounding box or coordinate reference system was extracted by the manifest process."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Some cloud-optimized derivatives were not generated because local geospatial command-line tools are missing."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
+  "dct_subject_sm": [],
+  "dcat_theme_sm": [
+    "Imagery",
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "MrSID",
+    "Raster",
+    "geospatial raster",
+    "orthoimagery",
+    "orthophoto",
+    "2010",
+    "ortho_1-1_1n_s_nv510_2010_1"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [],
+  "dct_identifier_sm": [
+    "unr-95f14244-50eb-47f9-8959-8dbca9627cff",
+    "f8279ca9012a19ebec5feffce86e35afdef31389a89700caa6d94534d164abc0",
+    "ortho_1-1_1n_s_nv510_2010_1.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/original_file/ortho_1-1_1n_s_nv510_2010_1.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "MrSID",
+  "gbl_indexYear_im": "2010",
+  "gbl_georeferenced_b": false,
+  "gbl_mdModified_dt": "2026-06-04T02:50:28.624Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "288413507",
+  "dct_references_s": "{\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/original_file/ortho_1-1_1n_s_nv510_2010_1.zip\",\"label\":\"Original geospatial raster package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"http://schema.org/thumbnailUrl\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/thumbnail/thumbnail.jpg\",\"label\":\"Thumbnail\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/original_file/ortho_1-1_1n_s_nv510_2010_1.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-95f14244-50eb-47f9-8959-8dbca9627cff/dataset_manifest.json\",\"label\":\"Dataset manifest\"}]}",
+  "gbl_dateRange_drsim": "[2010 TO 2010]"
+}

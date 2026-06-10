@@ -1,0 +1,90 @@
+{
+  "id": "unr-74479f22-0e6b-4c13-b376-0195a7461525",
+  "dct_title_s": "Township No. 13 North, Range No. 18 East",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "T13NR18E1",
+    "Township N 13 North, Range No. 18 E",
+    "Township No. 13 North, Range No. 18 East, Meridian"
+  ],
+  "dct_description_sm": [
+    "Plat map of Township No. 13 North, Range No. 18 East, showing Public Land Survey System section lines, subdivisions, survey information, acreage annotations, and meanders of Lake Bigler. The map includes certification text associated with the U.S. Land Office at Carson City and the Surveyor General's Office.",
+    "Scale 40 chains to an inch."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Scale 40 chains to an inch."
+  ],
+  "dct_creator_sm": [
+    "United States. Surveyor General's Office"
+  ],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Cadastral maps"
+  ],
+  "dct_subject_sm": [
+    "Public lands--Nevada--Maps",
+    "Land subdivision--Nevada--Maps",
+    "Surveying--Nevada--Maps",
+    "Lake Tahoe (Calif. and Nev.)--Maps",
+    "Lake Bigler--Maps"
+  ],
+  "dcat_theme_sm": [
+    "Property",
+    "Boundaries",
+    "Inland Waters"
+  ],
+  "dcat_keyword_sm": [
+    "Public Land Survey System",
+    "township plats",
+    "Township 13 North",
+    "Range 18 East",
+    "Lake Bigler",
+    "Lake Tahoe",
+    "section lines",
+    "subdivisions",
+    "meanders",
+    "Carson City",
+    "chains"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "dct_spatial_sm": [
+    "Township 13 North, Range 18 East",
+    "Lake Bigler",
+    "Lake Tahoe (Calif. and Nev.)",
+    "Nevada"
+  ],
+  "dct_identifier_sm": [
+    "unr-74479f22-0e6b-4c13-b376-0195a7461525",
+    "87d65f92012a5f805a7d8e173036421dccd36874e5481410c3ef2821f292afe8"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/original_file/T13NR18E1.jpg"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "JPEG",
+  "dct_issued_s": "1867",
+  "gbl_indexYear_im": "1867",
+  "gbl_georeferenced_b": false,
+  "gbl_mdModified_dt": "2026-05-17T15:46:41.955Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "4618731",
+  "dct_references_s": "{\"iiif\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/iiif\",\"label\":\"IIIF Image API Level 0\"}],\"http://schema.org/thumbnailUrl\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/thumbnail/thumbnail.jpg\",\"label\":\"Thumbnail\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/original_file/T13NR18E1.jpg\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"ai-enrichments\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/ai-enrichments.json\",\"label\":\"OpenGeoMetadata AI Enrichments JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/enrichment-response\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-74479f22-0e6b-4c13-b376-0195a7461525/enrichment_response.json\",\"label\":\"Extracted placename response\"}]}",
+  "gbl_dateRange_drsim": "[1867 TO 1867]"
+}

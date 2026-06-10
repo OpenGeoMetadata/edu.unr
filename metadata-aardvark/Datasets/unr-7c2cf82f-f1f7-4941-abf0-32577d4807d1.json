@@ -1,0 +1,67 @@
+{
+  "id": "unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1",
+  "dct_title_s": "o35114a5 GeoTIFF raster dataset",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "O35114a5",
+    "o35114a5"
+  ],
+  "dct_description_sm": [
+    "GeoTIFF raster dataset with one band and 5,604 x 6,899 pixels, stored in a ZIP package with associated .tfw, .rrd, and .aux sidecar files. The raster is georeferenced in NAD83 / UTM zone 11N (EPSG:26911)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Coordinate reference system: NAD83 / UTM zone 11N (EPSG:26911)."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Raster data"
+  ],
+  "dct_subject_sm": [],
+  "dcat_theme_sm": [
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "GeoTIFF",
+    "Raster",
+    "single band raster",
+    "NAD83 / UTM zone 11N",
+    "EPSG:26911",
+    "o35114a5"
+  ],
+  "dct_temporal_sm": [],
+  "dct_spatial_sm": [],
+  "dct_identifier_sm": [
+    "unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1",
+    "a62360d83d0c27cbfeb456762d15e319ee28d7d2289eb163e0bd8363e758e2a1",
+    "o35114a5.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/original_file/o35114a5.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "GeoTIFF",
+  "dcat_bbox": "ENVELOPE(-114.6395749,-114.4853517,35.1348653,34.9802985)",
+  "locn_geometry": "POLYGON((-114.6395749 35.1348653, -114.4853517 35.1348653, -114.4853517 34.9802985, -114.6395749 34.9802985, -114.6395749 35.1348653))",
+  "dcat_centroid": "35.0575819,-114.5624633",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-06-02T14:58:05.264Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "2204927",
+  "dct_references_s": "{\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/original_file/o35114a5.zip\",\"label\":\"Original geospatial raster package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/derivatives/o35114a5.cog.tif\",\"label\":\"Cloud Optimized GeoTIFF derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/original_file/o35114a5.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/dataset_manifest.json\",\"label\":\"Dataset manifest\"}],\"https://www.cogeo.org/\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-7c2cf82f-f1f7-4941-abf0-32577d4807d1/derivatives/o35114a5.cog.tif\",\"label\":\"Cloud Optimized GeoTIFF\"}]}"
+}

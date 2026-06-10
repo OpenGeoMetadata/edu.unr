@@ -1,0 +1,106 @@
+{
+  "id": "unr-df264816-eeb7-42c3-ab64-3a23423259c1",
+  "dct_title_s": "Reno sheet, Nevada",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "Nevada Reno Sheet",
+    "Reno, Nevada"
+  ],
+  "dct_description_sm": [
+    "Topographic map of the Reno, Nevada area, including Pyramid Lake, the Truckee River, Wadsworth, Verdi, and the California-Nevada boundary region. Scale 1:125,000; contour interval 100 feet; polyconic projection. Edition of Dec. 1893, reprinted 1948; surveyed in 1889 and 1890 by reconnaissance methods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Edition of Dec. 1893; reprinted 1948.",
+    "Surveyed in 1889 and 1890 by reconnaissance methods.",
+    "Reno_1893_rpt1948.zip did not expose usable raster georeferencing, so OpenGeoMetadata Studio processed its image source as a scanned map for IIIF and OCR."
+  ],
+  "dct_creator_sm": [
+    "United States Geological Survey",
+    "Thompson, A. H.",
+    "Douglas, E. M.",
+    "Chapman, R. H.",
+    "Bartlett, P. V. S.",
+    "Feusier, H. E. C."
+  ],
+  "dct_publisher_sm": [
+    "United States Geological Survey"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topographic maps",
+    "Reno (Nev.)--Maps",
+    "Nevada--Maps",
+    "California--Maps",
+    "Railroads--Nevada--Maps"
+  ],
+  "dcat_theme_sm": [
+    "Location",
+    "Elevation",
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Reno Sheet",
+    "Scale 1:125",
+    "000",
+    "Contour interval 100 feet",
+    "Polyconic projection",
+    "Pyramid Lake",
+    "Truckee River",
+    "Pyramid Indian Reservation",
+    "California-Nevada boundary",
+    "United States Geological Survey",
+    "Reprinted 1948"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "dct_spatial_sm": [
+    "Reno (Nev.)",
+    "Pyramid Lake (Nev.)",
+    "Truckee River (Calif. and Nev.)",
+    "Wadsworth (Nev.)",
+    "Verdi (Nev.)",
+    "Pyramid Lake Indian Reservation (Nev.)",
+    "Nevada",
+    "California"
+  ],
+  "dct_identifier_sm": [
+    "unr-df264816-eeb7-42c3-ab64-3a23423259c1",
+    "803031d8567aa7bb2e7c8e90788c1f9ea7d81c7c7af9de0ba4154a9079e7c0be"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/original_file/Reno_1893_rpt1948.tif",
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/original_file/Reno_1893_rpt1948.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "TIFF",
+  "schema_provider_s": "University of Nevada, Reno",
+  "dct_issued_s": "1893",
+  "gbl_indexYear_im": "1893",
+  "dcat_bbox": "ENVELOPE(-120,-119.5,40,39.5)",
+  "locn_geometry": "POLYGON((-120 39.5, -119.5 39.5, -119.5 40, -120 40, -120 39.5))",
+  "dcat_centroid": "39.75,-119.75",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-06-06T00:58:29.960Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "96734235",
+  "dct_references_s": "{\"iiif\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/iiif\",\"label\":\"IIIF Image API Level 0\"}],\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/original_file/Reno_1893_rpt1948.zip\",\"label\":\"Original geospatial raster package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/dataset_manifest.json\",\"label\":\"Dataset manifest\"}],\"http://schema.org/thumbnailUrl\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/thumbnail/thumbnail.jpg\",\"label\":\"Thumbnail\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/original_file/Reno_1893_rpt1948.tif\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"ai-enrichments\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/ai-enrichments.json\",\"label\":\"OpenGeoMetadata AI Enrichments JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/dataset_manifest.json\",\"label\":\"Dataset manifest\"}],\"https://opengeometadata.org/reference/enrichment-response\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-df264816-eeb7-42c3-ab64-3a23423259c1/enrichment_response.json\",\"label\":\"Extracted placename response\"}]}",
+  "gbl_dateRange_drsim": "[1893 TO 1893]"
+}

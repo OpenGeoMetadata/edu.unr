@@ -1,0 +1,88 @@
+{
+  "id": "unr-4edc3124-1978-4759-8467-fbd861d63643",
+  "dct_title_s": "NAIP Nevada 2010 1-meter 4-band image tile footprints",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "naip_nv_2010_1m_m4b"
+  ],
+  "dct_description_sm": [
+    "Polygon footprint dataset for NAIP Nevada 2010 1-meter, 4-band image tiles. The ESRI Shapefile contains 7,454 polygon features representing image tile footprints. Source imagery dates recorded in the SrcImgDate attribute range from 2010-05-07 to 2010-11-16. Attributes include tile filename, quadrangle name, state, UTM zone, resolution, band, source image date, and verification date. Coordinates are in NAD83 geographic coordinates."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Sidecar metadata includes process text: CopyFeatures quads375 O:\\products\\naip\\final\\fy10\\shapefiles\\naip_nv_2010_1m_m4b.shp # 0 0 0."
+  ],
+  "dct_creator_sm": [],
+  "dct_publisher_sm": [],
+  "gbl_resourceType_sm": [
+    "Polygon data"
+  ],
+  "dct_subject_sm": [
+    "NAIP",
+    "Image tile footprints",
+    "Remote-sensing imagery"
+  ],
+  "dcat_theme_sm": [
+    "Imagery",
+    "Location"
+  ],
+  "dcat_keyword_sm": [
+    "NAIP",
+    "Nevada",
+    "image tile footprints",
+    "1-meter resolution",
+    "4-band imagery",
+    "M4B",
+    "NAD83",
+    "SrcImgDate",
+    "VerDate",
+    "UTM zones 10 and 11",
+    "ESRI Shapefile"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "California",
+    "Utah",
+    "Arizona",
+    "Idaho",
+    "Oregon"
+  ],
+  "dct_identifier_sm": [
+    "unr-4edc3124-1978-4759-8467-fbd861d63643",
+    "ad01333fa0b2aa7f6181480d2fdd45425e1452f9b76f3d22e9f55d41c8f4004c",
+    "naip_nv_2010_1m_m4b.zip"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/original_file/naip_nv_2010_1m_m4b.zip"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2011",
+  "gbl_indexYear_im": "2010",
+  "dcat_bbox": "ENVELOPE(-120.0625,-114,42.0625,35)",
+  "locn_geometry": "POLYGON((-120.0625 42.0625, -114 42.0625, -114 35, -120.0625 35, -120.0625 42.0625))",
+  "dcat_centroid": "38.53125,-117.03125",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-06-02T14:48:49.003Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "508232",
+  "dct_references_s": "{\"geojson\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/derivatives/naip_nv_2010_1m_m4b.geojson\",\"label\":\"GeoJSON viewer derivative\"}],\"file\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/original_file/naip_nv_2010_1m_m4b.zip\",\"label\":\"Original zipped shapefile package\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/derivatives/naip_nv_2010_1m_m4b.parquet\",\"label\":\"GeoParquet derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/derivatives/naip_nv_2010_1m_m4b.pmtiles\",\"label\":\"PMTiles vector tile derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/derivatives/naip_nv_2010_1m_m4b.geojson\",\"label\":\"GeoJSON viewer derivative\"},{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/original_file/naip_nv_2010_1m_m4b.zip\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/dataset-manifest\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/dataset_manifest.json\",\"label\":\"Dataset manifest\"}],\"pmtiles\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-4edc3124-1978-4759-8467-fbd861d63643/derivatives/naip_nv_2010_1m_m4b.pmtiles\",\"label\":\"PMTiles vector tiles\"}]}",
+  "gbl_dateRange_drsim": "[2010 TO 2010]"
+}

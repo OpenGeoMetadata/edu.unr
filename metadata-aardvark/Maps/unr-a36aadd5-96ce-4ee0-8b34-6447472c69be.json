@@ -1,0 +1,91 @@
+{
+  "id": "unr-a36aadd5-96ce-4ee0-8b34-6447472c69be",
+  "dct_title_s": "Bullfrog quadrangle, Nevada-California: 15 minute series (topographic)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_alternative_sm": [
+    "Bullfrog, Nev.-Calif.",
+    "Bullfrog quadrangle"
+  ],
+  "dct_description_sm": [
+    "Topographic map of the Bullfrog quadrangle in Nevada and California, 15 minute series, scale 1:62,500, with 40-foot contour interval. Mapped, edited, and published by the U.S. Geological Survey; control by the U.S. Geological Survey and U.S. Coast and Geodetic Survey; topography from aerial photographs taken in 1952 and by plane-table surveys in 1954. The sheet is dated 1954 and includes a 1972 U.S. Geological Survey imprint or reprint note."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "gbl_displayNote_sm": [
+    "Map dated 1954; imprint or reprint note reads: \"Interior--Geological Survey, Washington, D.C.--1972.\""
+  ],
+  "dct_creator_sm": [
+    "Geological Survey (U.S.)",
+    "U.S. Coast and Geodetic Survey"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Topographic maps"
+  ],
+  "dct_subject_sm": [
+    "Topographic maps",
+    "Bullfrog (Nev. and Calif.)--Maps",
+    "Nye County (Nev.)--Maps",
+    "Inyo County (Calif.)--Maps"
+  ],
+  "dcat_theme_sm": [
+    "Location",
+    "Elevation",
+    "Transportation"
+  ],
+  "dcat_keyword_sm": [
+    "Bullfrog quadrangle",
+    "15 minute series",
+    "topographic map",
+    "Rhyolite",
+    "Beatty",
+    "Amargosa River"
+  ],
+  "dct_temporal_sm": [
+    "1954"
+  ],
+  "dct_spatial_sm": [
+    "Bullfrog (Nev. and Calif.)",
+    "Nye County (Nev.)",
+    "Inyo County (Calif.)",
+    "Nevada",
+    "California"
+  ],
+  "dct_identifier_sm": [
+    "unr-a36aadd5-96ce-4ee0-8b34-6447472c69be",
+    "7090d3996b05871940f70b1f17dfb2fdeda0ed32e4ea3dec5d02ffecd9203851",
+    "N3645-W11645/15",
+    "AMS 2657 IV - Series V796"
+  ],
+  "dct_rights_sm": [],
+  "dct_rightsHolder_sm": [],
+  "dct_license_sm": [],
+  "pcdm_memberOf_sm": [],
+  "dct_isPartOf_sm": [],
+  "dct_source_sm": [
+    "https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/original_file/Bullfrog_1954r72.tif"
+  ],
+  "dct_isVersionOf_sm": [],
+  "dct_replaces_sm": [],
+  "dct_isReplacedBy_sm": [],
+  "dct_relation_sm": [],
+  "dct_format_s": "TIFF",
+  "dct_issued_s": "1954",
+  "gbl_indexYear_im": "1954",
+  "dcat_bbox": "ENVELOPE(-117.0, -116.75, 37.0, 36.75)",
+  "locn_geometry": "ENVELOPE(-117.0, -116.75, 37.0, 36.75)",
+  "dcat_centroid": "POINT(-116.875 36.875)",
+  "gbl_georeferenced_b": true,
+  "gbl_mdModified_dt": "2026-05-17T15:37:22.145Z",
+  "gbl_suppressed_b": false,
+  "gbl_fileSize_s": "36091942",
+  "dct_references_s": "{\"iiif\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/iiif\",\"label\":\"IIIF Image API Level 0\"}],\"http://schema.org/thumbnailUrl\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/thumbnail/thumbnail.jpg\",\"label\":\"Thumbnail\"}],\"url\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/original_file/Bullfrog_1954r72.tif\",\"label\":\"Original image\"}],\"https://opengeometadata.org/reference/aardvark-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/aardvark.json\",\"label\":\"Aardvark JSON\"}],\"ai-enrichments\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/ai-enrichments.json\",\"label\":\"OpenGeoMetadata AI Enrichments JSON\"}],\"https://opengeometadata.org/reference/archival-accession-supplement\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/archival_accession_supplement.md\",\"label\":\"Archival accession processing supplement\"}],\"https://opengeometadata.org/reference/archival-accession-supplement-json\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/archival_accession_supplement.json\",\"label\":\"Archival accession supplement JSON\"}],\"https://opengeometadata.org/reference/enrichment-response\":[{\"url\":\"https://s3.amazonaws.com/ogm-metadata-studio/uploads/unr-a36aadd5-96ce-4ee0-8b34-6447472c69be/enrichment_response.json\",\"label\":\"Extracted placename response\"}]}",
+  "gbl_dateRange_drsim": "[1954 TO 1954]"
+}
