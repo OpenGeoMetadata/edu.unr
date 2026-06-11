@@ -55,6 +55,7 @@
   "dct_isReplacedBy_sm": [],
   "dct_relation_sm": [],
   "dct_format_s": "GeoTIFF",
+  "schema_provider_s": "University of Nevada, Reno",
   "dcat_bbox": "ENVELOPE(-114.5193219,-113.976638,42.0119782,41.4880499)",
   "locn_geometry": "POLYGON((-114.5193219 42.0119782, -113.976638 42.0119782, -113.976638 41.4880499, -114.5193219 41.4880499, -114.5193219 42.0119782))",
   "dcat_centroid": "41.75001405,-114.24797995",

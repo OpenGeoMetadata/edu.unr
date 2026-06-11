@@ -62,6 +62,7 @@
   "dct_isReplacedBy_sm": [],
   "dct_relation_sm": [],
   "dct_format_s": "Shapefile",
+  "schema_provider_s": "University of Nevada, Reno",
   "gbl_indexYear_im": "2010",
   "dcat_bbox": "ENVELOPE(233466.90309429375,285564.65,4357766.932,4323488.243)",
   "locn_geometry": "POLYGON((233466.90309429375 4357766.932, 285564.65 4357766.932, 285564.65 4323488.243, 233466.90309429375 4323488.243, 233466.90309429375 4357766.932))",
